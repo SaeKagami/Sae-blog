@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Food &#8211; Sae Blog</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/food/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saekagami.github.io/Sae-blog</link>
+	<description>This is my blog</description>
+	<lastBuildDate>Sat, 29 May 2021 04:18:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://saekagami.github.io/Sae-blog/wp-content/uploads/2021/05/OIP.jpg</url>
+	<title>Food &#8211; Sae Blog</title>
+	<link>https://saekagami.github.io/Sae-blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nhà hàng L’Olivier</title>
+		<link>https://saekagami.github.io/Sae-blog/food/nha-hang-lolivier/</link>
+					<comments>https://saekagami.github.io/Sae-blog/food/nha-hang-lolivier/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Minh Khoa]]></dc:creator>
+		<pubDate>Sat, 29 May 2021 04:15:48 +0000</pubDate>
+				<category><![CDATA[Food]]></category>
+		<guid isPermaLink="false">https://saekagami.github.io/Sae-blog/?p=65</guid>
+
+					<description><![CDATA[7 Lê Duẫn Q1 Dự định ban đầu của mình là Imotaro, khi mình tới thì quán đã kín bàn nên mình đành ghé qua L’Olivier. L’Olivier thuộc nhà hàng Sofitel, nhà hàng khá nhỏ, mà không chỉ nhà hàng này nhỏ, bên buffet mình thấy không gian cũng không rộng hơn bao nhiêu… Ưu điểm của nhà hàng có [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>7 Lê Duẫn Q1</strong></p>
+
+
+
+<p>Dự định ban đầu của mình là Imotaro, khi mình tới thì quán đã kín bàn nên mình đành ghé qua L’Olivier. L’Olivier thuộc nhà hàng Sofitel, nhà hàng khá nhỏ, mà không chỉ nhà hàng này nhỏ, bên buffet mình thấy không gian cũng không rộng hơn bao nhiêu… Ưu điểm của nhà hàng có lẽ là mát, rất mát, không gian thì không được sang trọng lắm, nhưng nhờ vậy mà sáng sủa, chụp hình dễ :3</p>
+
+
+
+<figure class="wp-block-image"><img src="https://media.abcsalles.com/images/1/salles/900h/443807/restaurant-olivier-7.jpg" alt="See the source image"/></figure>
+
+
+
+<p>Ở đây khá ngộ, không có nước lọc miễn phí… Tất cả các khách sạn 5* mình đi đều có nước lọc miễn phí, chỉ ở đây là không có… <strong>170k </strong>cho chai nước suối này… còn kinh khủng hơn bên Opera (Park Hyatt) X_X</p>
+
+
+
+<p class="has-normal-font-size"></p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://saekagami.github.io/Sae-blog/wp-content/uploads/2021/05/Nightcore-A-Thousand-Years-Lyrics-.mp3"></audio></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saekagami.github.io/Sae-blog/food/nha-hang-lolivier/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://saekagami.github.io/Sae-blog/wp-content/uploads/2021/05/Nightcore-A-Thousand-Years-Lyrics-.mp3" length="4885151" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>
